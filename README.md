@@ -1,19 +1,8 @@
 <!--
 **IshGish/IshGish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-# A Data Scientist and Programmer.
-## Test
-### Test
-####Test
-dsa
-dcasdc
-as
-dcasd
-cd
-as
-cas
-csdacsdkvcnsdfikjvnkfsdnvfsdkdxf
+# Programmer and Pseudo Artist
 
-vdsdvsdf
+A personal profile for personal projects.
 
-##Test
